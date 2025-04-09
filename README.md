@@ -20,3 +20,10 @@ PDF2Excel Converter is a lightweight Python tool that extracts tables or text co
 [] Clean and structured output  
 [] OCR support for image-based PDFs (optional)  
 [] User-friendly interface with Streamlit (optional)  
+
+# 🖼️ Screenshots
+
+# 📁 Example Usage
+
+# 💡 Future Improvements
+
